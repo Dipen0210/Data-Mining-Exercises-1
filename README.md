@@ -4,9 +4,9 @@ This repository contains solutions and experiments for advanced regression model
 
 ---
 
-## 🧪 Included Notebooks
+##  Included Notebooks
 
-### ✅ `Ex4DM.ipynb`: **Model Evaluation and Selection**
+### `Ex4DM.ipynb`: **Model Evaluation and Selection**
 
 This notebook covers:
 
@@ -22,7 +22,7 @@ This notebook covers:
 
 ---
 
-### ✅ `Ex5DM.ipynb`: **Regularization with Real Dataset**
+### `Ex5DM.ipynb`: **Regularization with Real Dataset**
 
 This notebook applies similar techniques on a different dataset, emphasizing the effect of regularization:
 
@@ -35,7 +35,7 @@ This notebook applies similar techniques on a different dataset, emphasizing the
 
 ---
 
-### ✅ `Ex6DM.ipynb`: **Comprehensive Regression and Dimensionality Pipeline**
+### `Ex6DM.ipynb`: **Comprehensive Regression and Dimensionality Pipeline**
 
 Topics covered:
 
